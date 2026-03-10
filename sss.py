@@ -1,0 +1,1 @@
+print = "tahapan 1 selesai"
