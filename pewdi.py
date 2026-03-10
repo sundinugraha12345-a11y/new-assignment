@@ -1,0 +1,1 @@
+print = "hidup jokowi"
